@@ -5,3 +5,13 @@
   box-sizing: border-box;
   font-family: "Roboto", sans-serif;
 }
+
+nav {
+  height: 70px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  width: 300px;
+}
