@@ -11,6 +11,40 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding: 0 16px;
+  background-color: #cafdff;
+}
+
+header {
+  background-colof: #eadcff:
+  height: calc(100vh- 70px);
+  padding: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h1: {
+  font-size: 72px;
+}
+
+.subheader {
+  font-size: 36px;
+}
+
+button {
+  background-color: #05c7cf;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+a {
+  color: #000;
+  font-size: 24px;
+  font-weight: 700;
 }
 
 .logo {
