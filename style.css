@@ -10,8 +10,18 @@ nav {
   height: 70px;
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 .logo {
   width: 300px;
+}
+
+ul {
+  display: flex
+}
+
+li {
+  list-style-type: none;
+  padding-left: 16px;
 }
