@@ -68,10 +68,19 @@ li {
   justify-content: center;
 }
 
+#about,
+#discord,
+#contact {
+  padding: 48px 0;
+}
+
+/*
+
 ABOUT
 
+*/
+
 #about {
-  padding: 48px 0;
   background-color: #f8ffdc;
 }
 
@@ -110,7 +119,11 @@ img {
   margin-bottom: 24px;
 }
 
+/*
+
 DISCORD
+
+*/
 
 #discord {
   background-color: #cefeff;
